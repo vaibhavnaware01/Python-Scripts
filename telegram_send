@@ -1,0 +1,5 @@
+Step 1: After opening an account on Telegram, in the search bar at the top search for “BotFather”
+Step 2: Click on the ‘BotFather’ (first result) and type /newbot
+Step 3: Give a unique name to your bot. After naming it, Botfather will ask for its username. Then also give a unique name BUT remember the username of your bot must end with the bot, like my_bot, hellobot etc.
+Step 4: After giving a unique name and if it gets accepted you will get a message
+we will use this token in our python code to make changes in our bot
